@@ -1,0 +1,356 @@
+
+
+body{
+    overflow-x:hidden;
+    
+    max-width: 100%;
+}
+.information{
+    position: relative;
+    top: -190px;
+    left: 300px;
+}
+
+.ama{
+    width: 200px;
+}
+.ama1{
+    width: 200px;
+}
+.ama2{
+    width: 110px;
+}
+.ama3{
+    width: 200px;
+}
+.ama4{
+    width: 200px;
+}
+
+.image3{
+    position: relative;
+    top: -57em;
+    left: 910px;
+    transform: rotate(
+3deg);
+}
+.image1{
+    position: relative;
+    top: -360px;
+    left: 900px;
+    transform: rotate(
+7deg);
+}
+.image2{
+    position: relative;
+    top: -660px;
+    left: 906px;
+    transform: rotate( 
+4deg);
+}
+
+.image5{
+    position: relative;
+    top: -84em;
+    transform: rotate(
+357deg);
+    left: 57em;
+}
+.image4{
+    position: relative;
+    top: -74em;
+    left: 57em;
+    transform: rotate( 
+351deg);
+}
+.money{
+    position: relative;
+    top: -300px;
+    left: 760px;
+    font-family: system-ui;
+    font-weight: 600;
+}
+.bullet{
+    position: relative;
+    top: 180px;
+    left: 150px;
+    
+    list-style-type: none;
+}
+
+.small {
+    position: relative;
+    top: 200px;
+    color: gray;
+    opacity: 0.9;
+}
+
+.heading{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: system-ui;
+    position: relative;
+    top: 200px;
+
+}
+.the{
+    position: relative;
+    color: rgb(60 171 108);
+    top: 350px;
+    left: 150px;
+    font-weight: 500;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.influencer{
+    position: relative;
+    top: -300px;
+    left: 760px;
+    color: gray;
+    opacity: 0.6;
+}
+
+.ear1assurance{
+    
+    height: 400px;
+    position: relative;
+    top: -50em;
+    
+}
+.rec1{
+    margin-left: 180px;
+    width: 330px;
+    position: relative;
+    top: -240px;
+    opacity: 0.3;
+}
+.rec{
+    height: 400px;
+    width: 370px;
+    margin-left: 160px;
+}
+.helps{
+    color: white;
+    color: white;
+    text-align: justify;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.thenoise{
+    color: white;
+    position: inherit;
+    top: 180px;
+    font-size: 30px;
+    left: 150px;
+    font-family: sans-serif;
+}
+.vector{
+    position: relative;
+    left: 30px;
+    top: -18px;
+}
+
+.imagephone{
+    position: relative;
+    top: 2em;
+    left: 40em;
+}
+
+.phone1{
+    width: 300px;
+}
+.filter1{
+    background: url(../images/noise.png),rgb(78, 76, 76);
+    height: 500px;
+    width: 700px;
+}
+
+.filter2{
+    background: black;
+    height: 500px;
+    position: relative;
+    top: -525px;
+    left: 700px;
+    
+}
+.black{
+    height: 340px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.earn{
+    
+    height: 440px;
+}
+.round{
+    margin-left: 60px;
+}
+.name{
+    position: relative;
+    left: 64em;
+    top: -60px;
+}
+.rectangle1{
+    background: white;
+    width: 400px;
+    height: 80px;
+    border-style: solid;
+    margin-left: 55em;
+    border-width: 7px;
+    border-color:white;
+}
+.with{
+    position: relative;
+    top: 150px;
+    font-size: 13px;
+    left: 290px;
+    color: white;
+    font-family: system-ui;
+}
+.assured{
+    position: relative;
+    top: 150px;
+    font-family: system-ui;
+    font-size: 35px;
+    color: white;
+    font-weight: 600;
+    text-align: justify;
+    left: 290px;
+}
+.content1{
+        background: url(../images/noise.png),rgb(60 171 108);
+        height: 350px;
+        margin-top: -80em;
+        width: 700px;
+       
+}
+.content2{
+    background: url(../images/noise.png);
+    height: 350px;
+    margin-top: -22em;
+   
+}
+.connect{
+    margin-left: 300px;
+    font-size: 32px;
+    font-family: system-ui;
+}
+
+.content1-box{
+    width: 300px;
+    height: 400px;
+
+}
+.body-main{
+height: 400px;
+}
+
+.container {
+    position: initial;
+    top: 0px;
+    left: 10;
+    min-width: fit-content;
+    height: 100%;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.navigation{
+    
+    float: right;
+    margin: 30px 60px;
+    
+}
+.google{
+    width: 160px;
+    height: 50px;
+    border-radius: 6px;
+    margin-left: 550px;
+    position: relative;
+    top: 24px;
+}
+.apple{
+    width: 160px;
+    height: 50px;
+    border-radius: 6px;
+    margin-left: 720px;
+    position: relative;
+    top: -30px;
+}
+.bigtext{
+    text-align: justify;
+    font-family: system-ui;
+    font-weight: 600;
+    color: white;
+    font-size: 70px;
+    margin-left: 550px;
+}
+.smalltext{
+text-align: center;
+color: white;
+font-size: 13px;
+margin-left: 120px;
+margin-top: -30px;
+font-family: system-ui;
+}
+.sitename{
+    margin-left: 80px!important;
+}
+
+.navigation a{
+    font-size: 17px;
+    text-decoration: none;
+    text-align: center;
+    padding: 30px 20px;
+    color: white;
+}
+
+.what{
+        position: relative;
+    color: rgb(18 149 74);
+    left: 300px;
+    bottom: -80px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    font-style: normal;
+    font-family: system-ui;
+}
+.content{
+    background-image: url("../images/noise.png");
+    height: 400px;
+    margin-top: -30px;
+}
+.header{
+    background:rgb(60 171 108);
+    height: 860px;
+}
+
+.rotated1{
+    position: relative;
+    top: 112px;
+    left: 300px;
+    
+}
+.rotated3{
+    position: relative;
+    top: -104px;
+    left: 500px;
+}
+.rotated2{
+    position: relative;
+    top: -408px;
+    left: 460px;
+}
+
+.ear1{
+    width: 500px;
+}
+.ear3{
+    width: 500px;
+}
+
+.ear2{
+    width: 400px;height: 300px;
+}
